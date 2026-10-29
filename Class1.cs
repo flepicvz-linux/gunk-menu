@@ -4,7 +4,7 @@ using System.Reflection;
 using MelonLoader;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(GunkHackz.Mod), "GunkHackz", "2.1.0", "Me")]
+[assembly: MelonInfo(typeof(GunkMenu.Mod), "GunkMenu", "2.1.0", "Flepicvz")]
 
 namespace GunkHackz
 {
